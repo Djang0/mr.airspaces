@@ -1,0 +1,16 @@
+[Unit]
+Description=My service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/npm --parseable start
+ExecStop=/usr/bin/npm --parseable stop
+WorkingDirectory=/home/ludo/golf-status-bot/
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+RestartSec=10
+User=ludo
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,458 @@
+{
+  "en":[
+    {
+      "key":"These predictions are shipped to you for free, with the help of [Paraglidable](https://paraglidable.com/) and [openweathermap](https://openweathermap.org/). Data are refreshed every 10 minutes.",
+      "value":"These predictions are shipped to you for free, with the help of [Paraglidable](https://paraglidable.com/) and [openweathermap](https://openweathermap.org/). Data are refreshed every 10 minutes."
+    },
+    {
+      "key":"Sorry, there is no flyable Belgian site for now...",
+      "value":"Sorry, there is no flyable Belgian site for now..."
+    },
+    {
+      "key":"Here are the Belgian sites that we are monitoring every 10 minutes:",
+      "value":"Here are the Belgian sites that we are monitoring every 10 minutes:"
+    },
+    {
+      "key":"We don't have any site for now, Sorry...",
+      "value":"We don't have any site for now, Sorry..."
+    },
+    {
+      "key":"/help - Displays this message",
+      "value":"/help - Displays this message"
+    },
+    {
+      "key":"/oa - Provides with 10 latests openAir files from BPC",
+      "value":"/oa - Provides with 10 latests openAir files from BPC"
+    },
+    {
+      "key":"/golf - Provides with the latest LFA status",
+      "value":"/golf - Provides with the latest LFA GOLF status"
+    },
+    {
+      "key":"/sites - List all the Belgian sites monitored",
+      "value":"/sites - List all the Belgian sites monitored"
+    },
+    {
+      "key":"/flyable - Ships flyable predictions for monitored sites",
+      "value":"/flyable - Ships flyable predictions for monitored sites"
+    },
+    {
+      "key":"/xcable - Ships xc-able predictions for monitored sites",
+      "value":"/xcable - Ships xc-able predictions for monitored sites"
+    },
+    {
+      "key":"/meteo - Ships meteo status at flying site",
+      "value":"/meteo - Ships meteo status at flying site"
+    },
+    {
+      "key":"/paymeabeer - Take your chance to contribute!",
+      "value":"/paymeabeer - Take your chance to contribute!"
+    },
+    {
+      "key":"/father - Asks me who my father is",
+      "value":"/father - Asks me who my father is"
+    },
+    {
+      "key":"We don't have any openAIR File for now, Sorry...",
+      "value":"We don't have any openAIR File for now, Sorry..."
+    },
+    {
+      "key":"ACTIVE",
+      "value":"ACTIVE"
+    },
+    {
+      "key":"NOT ACTIVE",
+      "value":"NOT ACTIVE"
+    },
+    {
+      "key":"`LFA GOLF 5 East is ",
+      "value":"`LFA GOLF 5 East is "
+    },
+    {
+      "key":"`LFA GOLF 5 West is ",
+      "value":"`LFA GOLF 5 West is "
+    },
+    {
+      "key":"`LFA GOLF 2 South is ",
+      "value":"`LFA GOLF 2 South is "
+    },
+    {
+      "key":"`LFA GOLF 2 West is ",
+      "value":"`LFA GOLF 2 West is "
+    },
+    {
+      "key":"`LFA GOLF 2 North is ",
+      "value":"`LFA GOLF 2 North is "
+    },
+    {
+      "key":"`LFA GOLF 1 is ",
+      "value":"`LFA GOLF 1 is "
+    },
+    {
+      "key":"Who is my father? That kind of quest often ends up with a hand cut ! But fear is the path to the dark side, fear leads to anger, anger leads to hate, hate leads to suffering",
+      "value":"Who is my father? That kind of quest often ends up with a hand cut ! But fear is the path to the dark side, fear leads to anger, anger leads to hate, hate leads to suffering"
+    },
+    {
+      "key":"Hey, if you wan't to pay my father a beer, consider making a donation https://paypal.me/golfbot",
+      "value":"Hey, if you want to pay my father a beer, consider making a donation https://paypal.me/golfbot"
+    },
+    {
+      "key":"Please select the site you are interested in ?",
+      "value":"Please select the site you are interested in ?"
+    },
+    {
+      "key":"Hello! I will monitor https://bit.ly/2XJPpwa and post to this channel each time an LFA GOLF's status changes.",
+      "value":"Hello! I will monitor https://bit.ly/2XJPpwa and post to this channel each time an LFA GOLF's status changes."
+    },
+    {
+      "key":"... if you happen to find me not so responsive, please keep in mind that I am a weekend project and that my father is running me on a 10 $ raspberry pi zero.",
+      "value":"... if you happen to find me not so responsive, please keep in mind that I am a weekend project and that my father is running me on a 10 $ raspberry pi zero."
+    },
+    {
+      "key":"If so, you might want to consider making a donation https://paypal.me/golfbot",
+      "value":"If so, you might want to consider making a donation https://paypal.me/golfbot"
+    }
+  ],
+  "fr":[
+    {
+      "key":"These predictions are shipped to you for free, with the help of [Paraglidable](https://paraglidable.com/) and [openweathermap](https://openweathermap.org/). Data are refreshed every 10 minutes.",
+      "value":"Ces prévisions vous sont envoyées gratuitement, avec l'aide de [Paraglidable] (https://paraglidable.com/) et de [openweathermap] (https://openweathermap.org/). Les données sont actualisées toutes les 10 minutes."
+    },
+    {
+      "key":"Sorry, there is no flyable Belgian site for now...",
+      "value":"Désolé, il n'y a pas de site belge flyable pour l'instant ..."
+    },
+    {
+      "key":"Here are the Belgian sites that we are monitoring every 10 minutes:",
+      "value":"Voici les sites belges que nous surveillons toutes les 10 minutes:"
+    },
+    {
+      "key":"We don't have any site for now, Sorry...",
+      "value":"Nous n'avons pas de site pour l'instant, désolé ..."
+    },
+    {
+      "key":"/help - Displays this message",
+      "value":"/help - Affiche ce message"
+    },
+    {
+      "key":"/oa - Provides with 10 latests openAir files from BPC",
+      "value":"/oa - Fournit les 10 derniers fichiers openAir de BPC"
+    },
+    {
+      "key":"/golf - Provides with the latest LFA status",
+      "value":"/golf - Fournit le dernier statut des LFA GOLF"
+    },
+    {
+      "key":"/sites - List all the Belgian sites monitored",
+      "value":"/sites - Liste de tous les sites belges surveillés"
+    },
+    {
+      "key":"/flyable - Ships flyable predictions for monitored sites",
+      "value":"/flyable - Prévisions des navires dans les sites surveillés"
+    },
+    {
+      "key":"/xcable - Ships xc-able predictions for monitored sites",
+      "value":"/xcable - Envoie des prévisions xc -able pour les sites surveillés"
+    },
+    {
+      "key":"/meteo - Ships meteo status at flying site",
+      "value":"/meteo - Statut météo des navires sur le site de vol"
+    },
+    {
+      "key":"/paymeabeer - Take your chance to contribute!",
+      "value":"/paymeabeer - Saisissez votre chance de contribuer!"
+    },
+    {
+      "key":"/father - Asks me who my father is",
+      "value":"/father - Me demande qui est mon père"
+    },
+    {
+      "key":"We don't have any openAIR File for now, Sorry...",
+      "value":"Nous n'avons pas de fichier openAIR pour l'instant, désolé ..."
+    },
+    {
+      "key":"ACTIVE",
+      "value":"ACTIVE"
+    },
+    {
+      "key":"NOT ACTIVE",
+      "value":"INACTIVE"
+    },
+    {
+      "key":"`LFA GOLF 5 East is ",
+      "value":"`LFA GOLF 5 East est "
+    },
+    {
+      "key":"`LFA GOLF 5 West is ",
+      "value":"`LFA GOLF 5 West est "
+    },
+    {
+      "key":"`LFA GOLF 2 South is ",
+      "value":"`LFA GOLF 2 South est "
+    },
+    {
+      "key":"`LFA GOLF 2 West is ",
+      "value":"`LFA GOLF 2 West est "
+    },
+    {
+      "key":"`LFA GOLF 2 North is ",
+      "value":"`LFA GOLF 2 North est "
+    },
+    {
+      "key":"`LFA GOLF 1 is ",
+      "value":"`LFA GOLF 1 est "
+    },
+    {
+      "key":"Who is my father? That kind of quest often ends up with a hand cut ! But fear is the path to the dark side, fear leads to anger, anger leads to hate, hate leads to suffering",
+      "value":"Qui est mon père? Ce genre de quête se termine souvent avec une main coupée!Mais la peur est le chemin qui mène au côté obscur, la peur mène à la colère, la colère conduit à la haine, la haine conduit à la souffrance"
+    },
+    {
+      "key":"Hey, if you wan't to pay my father a beer, consider making a donation https://paypal.me/golfbot",
+      "value":"Hé, si vous voulez payer une bière à mon père, envisagez de faire un don https://paypal.me/golfbot"
+    },
+    {
+      "key":"Please select the site you are interested in ?",
+      "value":"Veuillez sélectionner le site qui vous intéresse ?"
+    },
+    {
+      "key":"Hello! I will monitor https://bit.ly/2XJPpwa and post to this channel each time an LFA GOLF's status changes.",
+      "value":"Salut! Je surveillerai https://bit.ly/2XJPpwa et posterai sur ce canal chaque fois que l'état d'un LFA GOLF changera."
+    },
+    {
+      "key":"... if you happen to find me not so responsive, please keep in mind that I am a weekend project and that my father is running me on a 10 $ raspberry pi zero.",
+      "value":"... Si vous me trouvez moins réactif, n'oubliez pas que je suis un projet du week-end et que mon père me m'héberge sur un raspberry pi zero à 10 $."
+    },
+    {
+      "key":"If so, you might want to consider making a donation https://paypal.me/golfbot",
+      "value":"Si tel est le cas, vous pouvez envisager de faire un don https://paypal.me/golfbot"
+    }
+  ],
+  "nl":[
+    {
+      "key":"These predictions are shipped to you for free, with the help of [Paraglidable](https://paraglidable.com/) and [openweathermap](https://openweathermap.org/). Data are refreshed every 10 minutes.",
+      "value":"Deze voorspellingen worden gratis naar u verzonden, met behulp van [Paraglidable] (https://paraglidable.com/) en [openweathermap] (https://openweathermap.org/). Gegevens worden om de 10 minuten vernieuwd."
+    },
+    {
+      "key":"Sorry, there is no flyable Belgian site for now...",
+      "value":"Sorry, er is geen flyable Belgische site voor nu ..."
+    },
+    {
+      "key":"Here are the Belgian sites that we are monitoring every 10 minutes:",
+      "value":"Dit zijn de Belgische sites die we elke 10 minuten controleren:"
+    },
+    {
+      "key":"We don't have any site for now, Sorry...",
+      "value":"We hebben momenteel geen site, sorry ..."
+    },
+    {
+      "key":"/help - Displays this message",
+      "value":"/help - Geeft dit bericht weer"
+    },
+    {
+      "key":"/oa - Provides with 10 latests openAir files from BPC",
+      "value":"/oa - Biedt 10 latests open Air-bestanden van BPC"
+    },
+    {
+      "key":"/golf - Provides with the latest LFA status",
+      "value":"/golf - Biedt de nieuwste LFA-status"
+    },
+    {
+      "key":"/sites - List all the Belgian sites monitored",
+      "value":"/sites - Geef een overzicht van alle gecontroleerde Belgische sites"
+    },
+    {
+      "key":"/flyable - Ships flyable predictions for monitored sites",
+      "value":"/flyable - Verzendbare voorspellingen van schepen voor gemonitorde sites"
+    },
+    {
+      "key":"/xcable - Ships xc-able predictions for monitored sites",
+      "value":"/xcable - Verzendt xc-able voorspellingen voor bewaakte sites"
+    },
+    {
+      "key":"/meteo - Ships meteo status at flying site",
+      "value":"/meteo - Geeft meteo-status aan bij vliegterrein"
+    },
+    {
+      "key":"/paymeabeer - Take your chance to contribute!",
+      "value":"/paymeabeer - Grijp je kans om bij te dragen!"
+    },
+    {
+      "key":"/father - Asks me who my father is",
+      "value":"/father - Vraagt ​​mij wie mijn vader is"
+    },
+    {
+      "key":"We don't have any openAIR File for now, Sorry...",
+      "value":"We hebben voorlopig geen openAIR-bestand, sorry ..."
+    },
+    {
+      "key":"ACTIVE",
+      "value":"ACTIEF"
+    },
+    {
+      "key":"NOT ACTIVE",
+      "value":"NIET ACTIEF"
+    },
+    {
+      "key":"`LFA GOLF 5 East is ",
+      "value":"`LFA GOLF 5 East is"
+    },
+    {
+      "key":"`LFA GOLF 5 West is ",
+      "value":"`LFA GOLF 5 West is "
+    },
+    {
+      "key":"`LFA GOLF 2 South is ",
+      "value":"`LFA GOLF 2 South is "
+    },
+    {
+      "key":"`LFA GOLF 2 West is ",
+      "value":"`LFA GOLF 2 West is "
+    },
+    {
+      "key":"`LFA GOLF 2 North is ",
+      "value":"`LFA GOLF 2 North is "
+    },
+    {
+      "key":"`LFA GOLF 1 is ",
+      "value":"`LFA GOLF 1 is "
+    },
+    {
+      "key":"Who is my father? That kind of quest often ends up with a hand cut ! But fear is the path to the dark side, fear leads to anger, anger leads to hate, hate leads to suffering",
+      "value":"Wie is mijn vader? Dat soort queeste komt vaak uit op een handje! Maar angst is het pad naar de duistere kant, angst leidt tot boosheid, boosheid leidt tot haat, haat leidt tot lijden"
+    },
+    {
+      "key":"Hey, if you wan't to pay my father a beer, consider making a donation https://paypal.me/golfbot",
+      "value":"Hé, als je mijn vader een biertje wilt geven, overweeg dan om een ​​donatie te doen https://paypal.me/golfbot"
+    },
+    {
+      "key":"Please select the site you are interested in ?",
+      "value":"Selecteer de site waarin u bent geïnteresseerd?"
+    },
+    {
+      "key":"Hello! I will monitor https://bit.ly/2XJPpwa and post to this channel each time an LFA GOLF's status changes.",
+      "value":"Hallo! Ik zal https://bit.ly/2XJPpwa controleren en naar dit kanaal posten telkens wanneer de status van een LFA GOLF verandert."
+    },
+    {
+      "key":"... if you happen to find me not so responsive, please keep in mind that I am a weekend project and that my father is running me on a 10 $ raspberry pi zero.",
+      "value":"... als je me toevallig niet zo responsief vindt, houd er dan rekening mee dat ik een weekendproject ben en dat mijn vader me op een 10 $ raspberry pi zero rent."
+    },
+    {
+      "key":"If so, you might want to consider making a donation https://paypal.me/golfbot",
+      "value":"Als dat het geval is, kunt u overwegen een donatie te doen https://paypal.me/golfbot"
+    }
+  ],
+  "de":[
+    {
+      "key":"These predictions are shipped to you for free, with the help of [Paraglidable](https://paraglidable.com/) and [openweathermap](https://openweathermap.org/). Data are refreshed every 10 minutes.",
+      "value":"Diese Vorhersagen werden Ihnen kostenlos mit Hilfe von [Paraglidable] (https://paraglidable.com/) und [openweathermap] (https://openweathermap.org/) zur Verfügung gestellt. Die Daten werden alle 10 Minuten aktualisiert."
+    },
+    {
+      "key":"Sorry, there is no flyable Belgian site for now...",
+      "value":"Sorry, es gibt momentan keine fliegbare belgische Seite ..."
+    },
+    {
+      "key":"Here are the Belgian sites that we are monitoring every 10 minutes:",
+      "value":"Hier sind die belgischen Standorte, die wir alle 10 Minuten überwachen:"
+    },
+    {
+      "key":"We don't have any site for now, Sorry...",
+      "value":"Momentan haben wir keine Site, Sorry ..."
+    },
+    {
+      "key":"/help - Displays this message",
+      "value":"/help - Zeigt diese Nachricht an"
+    },
+    {
+      "key":"/oa - Provides with 10 latests openAir files from BPC",
+      "value":"/oa - Bietet 10 Latests-openAir-Dateien von BPC"
+    },
+    {
+      "key":"/golf - Provides with the latest LFA status",
+      "value":"/golf - Stellt den neuesten LFA-Status bereit"
+    },
+    {
+      "key":"/sites - List all the Belgian sites monitored",
+      "value":"/sites - Listet alle überwachten belgischen Sites auf"
+    },
+    {
+      "key":"/flyable - Ships flyable predictions for monitored sites",
+      "value":"/flyable - Versendet flugfähige Vorhersagen für überwachte Standorte"
+    },
+    {
+      "key":"/xcable - Ships xc-able predictions for monitored sites",
+      "value":"/xcable - Versendet xc-fähige Vorhersagen für überwachte Standorte"
+    },
+    {
+      "key":"/meteo - Ships meteo status at flying site",
+      "value":"/meteo - Versendet den Meteo-Status am Flugort"
+    },
+    {
+      "key":"/paymeabeer - Take your chance to contribute!",
+      "value":"/paymeabeer - Nehmen Sie Ihre Chance wahr!"
+    },
+    {
+      "key":"/father - Asks me who my father is",
+      "value":"/father - fragt mich, wer mein Vater ist"
+    },
+    {
+      "key":"We don't have any openAIR File for now, Sorry...",
+      "value":"Wir haben momentan keine openAIR-Datei, sorry ..."
+    },
+    {
+      "key":"ACTIVE",
+      "value":"AKTIV"
+    },
+    {
+      "key":"NOT ACTIVE",
+      "value":"NICHT AKTIV"
+    },
+    {
+      "key":"`LFA GOLF 5 East is ",
+      "value":"`LFA GOLF 5 East ist "
+    },
+    {
+      "key":"`LFA GOLF 5 West is ",
+      "value":"`LFA GOLF 5 West ist "
+    },
+    {
+      "key":"`LFA GOLF 2 South is ",
+      "value":"`LFA GOLF 2 South ist "
+    },
+    {
+      "key":"`LFA GOLF 2 West is ",
+      "value":"`LFA GOLF 2 West ist "
+    },
+    {
+      "key":"`LFA GOLF 2 North is ",
+      "value":"`LFA GOLF 2 North ist "
+    },
+    {
+      "key":"`LFA GOLF 1 is ",
+      "value":"`LFA GOLF 1 ist "
+    },
+    {
+      "key":"Who is my father? That kind of quest often ends up with a hand cut ! But fear is the path to the dark side, fear leads to anger, anger leads to hate, hate leads to suffering",
+      "value":"Wer ist mein vater Diese Art von Quest endet oft mit einem Handschnitt! Aber Angst ist der Weg zur dunklen Seite, Angst führt zu Wut, Wut führt zu Hass, Hass zu Leiden"
+    },
+    {
+      "key":"Hey, if you wan't to pay my father a beer, consider making a donation https://paypal.me/golfbot",
+      "value":"Hey, wenn Sie meinem Vater ein Bier bezahlen möchten, überlegen Sie, ob Sie eine Spende unter https://paypal.me/golfbot machen möchten"
+    },
+    {
+      "key":"Please select the site you are interested in ?",
+      "value":"Bitte wählen Sie die Site aus, die Sie interessiert?"
+    },
+    {
+      "key":"Hello! I will monitor https://bit.ly/2XJPpwa and post to this channel each time an LFA GOLF's status changes.",
+      "value":"Hallo! Ich werde https://bit.ly/2XJPpwa überwachen und jedes Mal auf diesen Kanal posten, wenn sich der Status eines LFA-GOLF ändert."
+    },
+    {
+      "key":"... if you happen to find me not so responsive, please keep in mind that I am a weekend project and that my father is running me on a 10 $ raspberry pi zero.",
+      "value":"... wenn Sie mich nicht so ansprechend finden, denken Sie bitte daran, dass ich ein Wochenendprojekt bin und dass mein Vater mich mit einer 10 $ raspberry pi zero gastgeber."
+    },
+    {
+      "key":"If so, you might want to consider making a donation https://paypal.me/golfbot",
+      "value":"Wenn ja, können Sie eine Spende unter https://paypal.me/golfbot in Betracht ziehen"
+    }
+  ]
+}
