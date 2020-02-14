@@ -20,7 +20,8 @@
     "googleapis": "^27.0.0",
     "https": "^1.0.0",
     "moment": "^2.24.0",
-    "nedb": "^1.8.0"
+    "nedb": "^1.8.0",
+    "simple-node-logger": "^18.12.24"
   },
   "devDependencies": {
     "request": "^2.88.0",

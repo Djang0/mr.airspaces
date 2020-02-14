@@ -12,6 +12,9 @@ var async = require("async");
 var locale_lst = ['en'];
 var locales = JSON.parse(fs.readFileSync('locales/data.json', 'utf8'));
 
+const log = require('simple-node-logger').createSimpleLogger('project.log');
+log.setLevel('info');
+log.info('test');
 var q = async.queue(function(task, done) {
   request(task.url, function(err, res, body) {
     if (err) return done(err);
@@ -1240,7 +1243,13 @@ var parse_req = function(req, res) {
     message: 'ok'
   })
 }
-
+var log_ip = function(req,res){
+  log.info("proxy :"+req.headers['x-forwarded-for']);
+  log.info("remote addr :"+req.connection.remoteAddress);
+  res.json({
+    message: 'none'
+  });
+}
 var describe_update = function(req, res) {
   if (true) {
     db.findOne({
@@ -1294,6 +1303,7 @@ var app = express()
   .get('/mhrDkdGRvitryJvNYiPYnocm', get_sites)
   .get('/UOgjNzpgMlOxzvElzeVkjCSQbr', describe_update)
   .get('/UZeLvHozfhwsL53eoAjetEYv', get_history)
+  .get('/UZeLvHozfhwsL53eoAjetEYvdljzzZZZ', log_ip)
   .get('/bousoufheildkfoiejsksooooo', list_file_id);
 
 https.createServer(credentials, app).listen(PORT, () => console.log(`Listening on ${ PORT }`));
