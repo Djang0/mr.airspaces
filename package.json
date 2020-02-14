@@ -21,7 +21,8 @@
     "https": "^1.0.0",
     "moment": "^2.24.0",
     "nedb": "^1.8.0",
-    "simple-node-logger": "^18.12.24"
+    "simple-node-logger": "^18.12.24",
+    "tor-request": "^3.1.0"
   },
   "devDependencies": {
     "request": "^2.88.0",
