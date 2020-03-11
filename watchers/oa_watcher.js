@@ -3,7 +3,6 @@ var tr = require('tor-request');
 var cheerio = require('cheerio');
 
 function do_get(){
-  console.log("launching");
   tr.TorControlPort.password = 'C4ps1deRul3s'
 
   tr.renewTorSession(function (err, success) {
@@ -35,9 +34,9 @@ function do_get(){
       request(clientServerOptions, function(error, response) {});
     }
   });
-  console.log("finished");
+
 }
 
-console.log("hello");
-setTimeout(do_get, 30000);
-console.log("done");
+x=Math.floor(Math.random() * (30000 - 1000 + 1) + 1000)
+console.log(x);
+setTimeout(do_get, x);
