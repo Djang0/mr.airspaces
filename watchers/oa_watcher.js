@@ -1,9 +1,18 @@
 const request = require('request')
+var tr = require('tor-request');
 var cheerio = require('cheerio');
+
+tr.TorControlPort.password = 'C4ps1deRul3s'
+
+tr.renewTorSession(function (err, success) {
+      if(err){
+        console.log(err);
+      }
+    });
 
 url = 'http://mids.be/fat/fat.php';
 
-request(url, function(error, response, html) {
+tr.request(url, function(error, response, html) {
   if (!error) {
     var $ = cheerio.load(html);
     const file_list = [];

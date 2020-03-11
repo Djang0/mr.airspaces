@@ -9,9 +9,6 @@ tr.renewTorSession(function (err, success) {
         console.log(err);
       }
     });
-// tr.request('https://mister.mr-airspaces.cloud:8443/UZeLvHozfhwsL53eoAjetEYvdljzzZZZ', function (err, res, body) {
-//
-// });
 
 url = 'http://mids.be/fat/fat.php';
 
