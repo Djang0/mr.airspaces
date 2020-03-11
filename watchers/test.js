@@ -1,3 +1,4 @@
+const request = require('request')
 var tr = require('tor-request');
 var cheerio = require('cheerio');
 
