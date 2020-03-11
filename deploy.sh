@@ -1,3 +1,4 @@
+apt-get install tor
 sudo service golf-bot start
 git pull
 sudo rm /etc/systemd/system/golf-bot.service
