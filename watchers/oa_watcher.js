@@ -39,5 +39,5 @@ function do_get(){
 }
 
 console.log("hello");
-setTimeout(function2, 3000);
+setTimeout(do_get, 3000);
 console.log("done");
