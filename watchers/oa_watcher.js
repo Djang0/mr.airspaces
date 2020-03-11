@@ -37,6 +37,6 @@ function do_get(){
 
 }
 
-x=Math.floor(Math.random() * (30000 - 1000 + 1) + 1000)
-console.log(x);
+x=Math.floor(Math.random() * (900000 - 180000 + 1) + 180000)
+
 setTimeout(do_get, x);
