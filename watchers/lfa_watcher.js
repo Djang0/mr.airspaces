@@ -1,7 +1,7 @@
 //https://www.lvzc.be/index.php/secretariaat/luchtruim/lfa-golf-status
 var request = require('request');
 var cheerio = require('cheerio');
-url = 'https://www.lvzc.be/index.php/secretariaat/luchtruim/lfa-golf-status';
+url = 'https://www.lvzc.be/index.php/luchtruim/lfa-golf-status';
 request(url, function(error, response, html) {
   if (!error) {
     var json = {};
