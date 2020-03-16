@@ -1257,14 +1257,14 @@ var describe_update = function(req, res) {
     }, function(err, doc) {
       if (doc) {
         doc.chats.forEach(function(item, index, array) {
-          txt="*I was upgraded version 1.5 (codename: Angus MacGyver)*"+'\n'+'\n'
-          txt+="In this version : "+'\n'
-          txt+=" - BPC decided not to upload Open Air files to Google Drive therefore /oa functionnality was broken since weeks. My father found a countermeasure and I am now fixed ;"+'\n'
-          txt+=" - Now you can download Open Air files in both AMSL and FL formats;"+'\n'
-          txt+=" - FBVL/BVVF has kindly proposed to help with translation, I'll soon be multilingual."+'\n'+'\n'
-          txt+="For full change log history see here : https://www.mr-airspaces.cloud/#logs"+'\n'
-          txt+=""+'\n'
-          txt+="Mr. Airspaces"+'\n'
+          txt="*Forced shutdown !*"+'\n'+'\n'
+          txt+="For obvious reasons, I'm shutting down untill better times. I whish you an happy end of the world. I'll be back (hopefully) ! "+'\n'
+          // txt+=" - BPC decided not to upload Open Air files to Google Drive therefore /oa functionnality was broken since weeks. My father found a countermeasure and I am now fixed ;"+'\n'
+          // txt+=" - Now you can download Open Air files in both AMSL and FL formats;"+'\n'
+          // txt+=" - FBVL/BVVF has kindly proposed to help with translation, I'll soon be multilingual."+'\n'+'\n'
+          // txt+="For full change log history see here : https://www.mr-airspaces.cloud/#logs"+'\n'
+          // txt+=""+'\n'
+          // txt+="Mr. Airspaces"+'\n'
 
           url = 'https://api.telegram.org/bot708917193:AAFOKdUCyrh5J1GFk1ScLwmAhm8HgeA5EVM/sendMessage?chat_id=' + item + '&text=' + txt+ "&parse_mode=Markdown";
           request(url, function(error, response, body) {
