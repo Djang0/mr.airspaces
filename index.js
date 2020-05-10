@@ -1274,7 +1274,8 @@ var describe_update = function(req, res) {
             if (!error && response.statusCode == 200) {
               log.info('described update');
             }else{
-              log.info(error);
+              log.info("error:"+response.statusCode);
+              log.info("resp:"+response);
             }
           });
         });
