@@ -1269,9 +1269,12 @@ var describe_update = function(req, res) {
           // txt+="Mr. Airspaces"+'\n'
 
           url = 'https://api.telegram.org/bot708917193:AAFOKdUCyrh5J1GFk1ScLwmAhm8HgeA5EVM/sendMessage?chat_id=' + item + '&text=' + txt+ "&parse_mode=Markdown";
+          log.info(url);
           request(url, function(error, response, body) {
             if (!error && response.statusCode == 200) {
-
+              log.info('described update');
+            }else{
+              log.info(error);
             }
           });
         });
