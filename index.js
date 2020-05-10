@@ -1275,7 +1275,7 @@ var describe_update = function(req, res) {
               log.info('described update');
             }else{
               log.info("error:"+response.statusCode);
-              log.info("resp:"+response);
+              log.info("resp:"+JSON.stringify(response));
             }
           });
         });
