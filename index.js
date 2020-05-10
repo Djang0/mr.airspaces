@@ -1257,8 +1257,10 @@ var describe_update = function(req, res) {
     }, function(err, doc) {
       if (doc) {
         doc.chats.forEach(function(item, index, array) {
-          txt="*Forced shutdown !*"+'\n'+'\n'
-          txt+="For obvious reasons, I'm shutting down untill better times. I whish you an happy end of the world. I'll be back (hopefully) ! "+'\n'
+          txt="*Damned ! It's good to be back !*"+'\n'+'\n'
+          txt+="B1983/20"+'\n'
+          txt+="From:10 MAY 20 19:30 Till:10 MAY 20 23:59"+'\n'
+          txt+="Text:COVID-19: VFR FLT PROHIBITED IN BELGIAN AIRSPACE, EXC MEDICAL, POLICE, SAR, STATE, MIL, MAINTENANCE, TECHNICAL INSPECTION FLT AND FLT TO ASSURE FUNCTIONING OF THE STATE"+'\n'
           // txt+=" - BPC decided not to upload Open Air files to Google Drive therefore /oa functionnality was broken since weeks. My father found a countermeasure and I am now fixed ;"+'\n'
           // txt+=" - Now you can download Open Air files in both AMSL and FL formats;"+'\n'
           // txt+=" - FBVL/BVVF has kindly proposed to help with translation, I'll soon be multilingual."+'\n'+'\n'
